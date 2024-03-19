@@ -79,7 +79,7 @@
 
 ## Cookie和类似技术
 
-Cookie放置在设备上的小型文本文件，用于存储数据，域中放置Cookie的Web服务器可以调用这些数据。我们使用Cookie和类似技术来存储和遵守你的偏好和设置、使你能够登录、提供基于兴趣的广告、打击欺诈行为、分析我们产品的性能以及实现其他合法目的，如下所述。
+Cookie是放置在设备上的小型文本文件，用于存储数据，域中放置Cookie的Web服务器可以调用这些数据。我们使用Cookie和类似技术来存储和遵守你的偏好和设置、使你能够登录、提供基于兴趣的广告、打击欺诈行为、分析我们产品的性能以及实现其他合法目的，如下所述。
 
 ### 我们对Cookie和类似技术的使用
 
@@ -106,7 +106,7 @@ Cookie放置在设备上的小型文本文件，用于存储数据，域中放�
 
 除了标准的Cookie，我们的产品也可能使用其他类似技术来存储和读取你计算机上的数据文件。通过在本机存储特定文件，可以保留你的首选项，或者提高速度和性能。但是，如同标准Cookie，这些技术也可以存储你计算机的唯一标识符，以便通过其追踪行为。这些技术包括“本地共享对象”（或“Flash Cookie”）。
 
-**“本地共享对象”或者“Flash Cookie”。使用Adobe Flash技术的网站可以使用该技术在你的计算机上存储数据。若要了解如何管理或阻止Flash Cookie，请转到[Flash Player帮助页面](https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html)
+**“本地共享对象”或者“Flash Cookie”**。使用Adobe Flash技术的网站可以使用该技术在你的计算机上存储数据。若要了解如何管理或阻止Flash Cookie，请转到[Flash Player帮助页面](https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html)
 
 ## 跨岛联邦统一账户
 
